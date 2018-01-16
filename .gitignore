@@ -1,13 +1,2 @@
 # JS file
-*.js
-
-# HTML file
-*.html
-
-# CSS file
-*.css
-
-# IMAGE files
-*.png
-*.jpg
-*.bmp
+WarOfTime.Cataclysm/script/*.js
